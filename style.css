@@ -1,0 +1,21 @@
+
+	
+		td {
+			border: 1px solid red;
+      padding: 2px;
+      text-align: center;
+      font-weight: bold;
+      
+		}
+    table{
+      border: 4px solid green;
+      width: 250px;
+      height: 300px ;
+      
+    }
+    #result-display{
+      text-align: right;
+      font-weight: 950;
+      height: 3px;
+      
+    }
